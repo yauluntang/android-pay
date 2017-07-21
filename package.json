@@ -1,12 +1,11 @@
 {
-  "name": "cordova-plugin-template",
+  "name": "android-pay",
   "version": "1.0.0",
   "cordova": {
-    "id": "cordova-plugin-template",
+    "id": "android-pay",
     "platforms": [
-      "android",
-      "ios",
+      "android"
     ]
   },
-  "description": "A starting point for a Cordova Plugin"
+  "description": "A starting point for a Android Pay"
 }

@@ -1,4 +1,4 @@
-Cordova Plugin Template
+Android Pay Plugin
 ======
 
-This is a simple starting point for building a Cordova plugin on iOS and Android.
+This is a simple starting point for building Android Pay Plugin
