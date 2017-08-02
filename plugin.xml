@@ -12,6 +12,8 @@
 
     <!-- android -->
     <platform name="android">
+      <framework src="com.google.android.gms:play-services-auth:+" />
+      <framework src="com.google.android.gms:play-services-identity:+" />
       <js-module src="www/plugin.js" name="plugin">
         <runs/>
 
