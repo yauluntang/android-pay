@@ -1,8 +1,8 @@
 {
-  "name": "android-pay",
+  "name": "cordova-plugin-android-pay",
   "version": "1.0.0",
   "cordova": {
-    "id": "android-pay",
+    "id": "cordova-plugin-android-pay",
     "platforms": [
       "android"
     ]

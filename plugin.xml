@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="my-cordova-plugin"
+    id="cordova-plugin-android-pay"
     version="1.0.0">
     <name>Cordova Plugin Template</name>
     <description></description>
     <license>MIT</license>
     <keywords></keywords>
-    <repo>https://github.com/driftyco/cordova-plugin-template.git</repo>
-    <issue>https://github.com/driftyco/cordova-plugin-template/issues</issue>
+    <repo>https://github.com/yauluntang/android-pay</repo>
+    <issue>https://github.com/yauluntang/android-pay/issues</issue>
 
     <!-- android -->
     <platform name="android">
