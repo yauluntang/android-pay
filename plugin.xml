@@ -24,8 +24,14 @@
           <param name="onload" value="true" />
         </feature>
       </config-file>
+      <edit-config file="AndroidManifest.xml" target="/manifest/application" mode="merge">
+          <application>
+              <meta-data android:name="com.google.android.gms.wallet.api.enabled" android:value="true" />
+          </application>
+      </edit-config>
 
       <source-file src="src/android/com/bindo/AndroidPayCordovaPlugin.java" target-dir="src/com/bindo/" />
+      <framework src="src/android/plugin.gradle" custom="true" type="gradleReference"/>
     </platform>
 
 
